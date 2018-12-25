@@ -6,6 +6,7 @@
 
 再次感谢！
 
+以下是原 README 内容
 ---
 
 # hexo-theme-Wikitten
