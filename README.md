@@ -1,3 +1,11 @@
+# 说明
+主题原仓库地址是：https://github.com/zthxxx/hexo-theme-Wikitten
+感谢 [@zthxxx](https://github.com/zthxxx)  同学开发出这样一个主题。
+
+出于主题个性化（不折腾不开森）和 [GitHub](https://github.com/)访问速度（最近又开始变慢了）考虑，将其搬到码云托管。
+
+---
+
 # hexo-theme-Wikitten
 
 [中文版文档](./README_zh-CN.md)
