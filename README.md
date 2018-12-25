@@ -5,6 +5,7 @@
 出于主题个性化（不折腾不开森）和 [GitHub](https://github.com/)访问速度（最近又开始变慢了）考虑，将其搬到码云托管。
 
 再次感谢！
+
 ---
 
 # hexo-theme-Wikitten
