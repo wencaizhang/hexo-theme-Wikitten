@@ -12,7 +12,7 @@ customize:
         enabled: true
         width: 40
         height: 40
-        url: ./logo.png
+        url: /wiki/logo.jpg
     profile:
         enabled: false # Whether to show profile bar
         avatar: # css/images/avatar.png
@@ -42,8 +42,8 @@ widgets: # default use category only
     # - tag
     # - tagcloud
     # - links
-    
-# Excerpt 
+
+# Excerpt
 ## Auto creat excerpt with not <!--more-->
 ## Enable will truncate auto_excerpt.lines rows in post head to replace excerpt.
 auto_excerpt:
@@ -56,7 +56,7 @@ search:
     swiftype: # enter swiftype install key here
     baidu: false # you need to disable other search engines to use Baidu search, options: true, false
 
-# History version 
+# History version
 history_control: # make you wiki has history version control in page
     enable: true
     server_link: https://gitee.com # recommend use GitHub https://github.com
